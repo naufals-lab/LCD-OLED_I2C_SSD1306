@@ -1,0 +1,52 @@
+# Arduino Build Files
+
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+
+# Arduino IDE temporary files
+
+*.tmp
+*.temp
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# VS Code
+
+.vscode/
+
+# JetBrains IDEs (CLion, IntelliJ, etc.)
+
+.idea/
+
+# Arduino CLI build folders
+
+build/
+builds/
+
+# PlatformIO
+
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Logs
+
+*.log
+
+# Backup files
+
+*~
+*.bak
+*.orig
