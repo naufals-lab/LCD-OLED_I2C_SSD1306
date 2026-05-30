@@ -53,9 +53,7 @@ documentation/naufalslablogo.png
 
 Lalu tampilkan di README:
 
-```markdown
 ![Preview](/documentation/naufalslablogo.png)
-```
 
 ## Source Code
 
