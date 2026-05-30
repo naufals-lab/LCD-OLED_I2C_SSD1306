@@ -48,7 +48,7 @@ Untuk board lain, sesuaikan pin I2C yang digunakan.
 Tambahkan foto hasil proyek pada folder:
 
 ```text
-images/
+documentation/naufalslablogo.png
 ```
 
 Lalu tampilkan di README:
