@@ -54,7 +54,7 @@ documentation/naufalslablogo.png
 Lalu tampilkan di README:
 
 ```markdown
-![Preview](https://github.com/naufals-lab/LCD-OLED_I2C_SSD1306/blob/43a9c1701bb86e2d43790f12c5aa3ac6b3e583a0/documentation/naufalslablogo.png)
+![Preview](/documentation/naufalslablogo.png)
 ```
 
 ## Source Code
